@@ -88,7 +88,7 @@ export default class Three {
         // speed: 0.5
       })
     })
-    // console.log('this.lines ', this.lines)
+    console.log('this.lines ', this.lines)
   }
 
   setLights() {
